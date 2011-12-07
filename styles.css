@@ -1,0 +1,43 @@
+@font-face {font-family: 'Gentium_Book_Basic'; src: url('fonts/GenBkBasR.ttf');}
+
+body, html {background-color: #33312A;}
+body {font-family: 'Gentium_Book_Basic'; font-size: 12px; line-height: 14px;}
+body .container { margin: 0 auto; width: 1024px;}
+
+#infobox {
+  line-height: 16px;
+  font-family: arial;
+  font-weight: bold;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  border-radius: 15px;
+  color: white;
+  padding: 12px;
+  width: auto;
+  text-align: left;
+}
+#infobox hr {
+  opacity: .1;
+}
+#infobox img {
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+#infobox a {
+  color: #FFCC32;
+  text-decoration: none;
+  opacity: 1;
+}
+#infobox h2 {
+  font-family: 'Gentium_Book_Basic';
+  font-size: 45px; line-height: 45px;
+  font-weight: normal;
+  margin: 2px;
+  opacity: 1;
+}
+
+#infobox {left: 100px; top: 150px; position: absolute; }
+#infobox img {width: auto}
+
+
+
