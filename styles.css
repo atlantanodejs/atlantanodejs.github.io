@@ -1,6 +1,6 @@
 @font-face {font-family: 'Gentium_Book_Basic'; src: url('fonts/GenBkBasR.ttf');}
 
-body, html {background-color: #33312A;}
+body, html {background-color: #36332C;}
 body {font-family: 'Gentium_Book_Basic'; font-size: 12px; line-height: 14px;}
 body .container { margin: 0 auto; width: 1024px;}
 
@@ -38,6 +38,5 @@ body .container { margin: 0 auto; width: 1024px;}
 
 #infobox {left: 100px; top: 150px; position: absolute; }
 #infobox img {width: auto}
-
 
 
